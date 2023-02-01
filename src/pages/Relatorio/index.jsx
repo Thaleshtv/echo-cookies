@@ -51,7 +51,7 @@ export default function Relaatorio() {
       <div className="cont" style={{ display: "flex" }}>
         <Menu />
         <Container maxWidth="xl" sx={{ marginTop: "3rem" }}>
-          <h1 style={{ color: "#51443C", fontSize: "2.25rem" }}>Relatorio</h1>
+          <h1 style={{ color: "#51443C", fontSize: "2.25rem" }}>Relartorio</h1>
           <form>
             <Grid container spacing={2} mt={3} rowSpacing={4}>
               <Grid item xs={3}>
